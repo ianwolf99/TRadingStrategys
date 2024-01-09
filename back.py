@@ -4,8 +4,8 @@ import talib
 from binance.client import Client
 
 # Replace 'your_api_key' and 'your_api_secret' with your actual Binance API key and secret
-api_key = 'rywhX43ozfOXWJ5G6eqvzV7FFh0rT4CCyWqffnIGdP1wkHVqY3FGUedGo9eUmirg'
-api_secret = 'y2qlhQPZd6DTLwCqPrqCKLtIwVj3Z13hmiKilBFL8UjUOy4qBWlGV6EyAkkg6J0X'
+api_key = 'ADD YOURS'
+api_secret = 'ADD YOURS'
 
 class MyStrategy(bt.Strategy):
     params = (
