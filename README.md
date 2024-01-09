@@ -1,2 +1,2 @@
 # TRadingStrategys
-open source trading startergies and execution
+open source trading startergies and execution WITH bINANCE api
