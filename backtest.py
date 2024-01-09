@@ -6,11 +6,11 @@ import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 # Replace 'your_api_key' and 'your_api_secret' with your actual Binance API key and secret
-api_key = 'rywhX43ozfOXWJ5G6eqvzV7FFh0rT4CCyWqffnIGdP1wkHVqY3FGUedGo9eUmirg'
-api_secret = 'y2qlhQPZd6DTLwCqPrqCKLtIwVj3Z13hmiKilBFL8UjUOy4qBWlGV6EyAkkg6J0X'
+api_key = ''
+api_secret = ''
 client = Client(api_key, api_secret)
 
-symbol = 'WLDUSDT'
+symbol = 'BTCUSDT'
 quantity = 0.001  # The quantity of BTC to trade
 
 # Moving averages periods
