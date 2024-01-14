@@ -8,8 +8,8 @@ from io import BytesIO
 import time
 
 # Binance API configuration (replace with your own keys)
-api_key = 'rywhX43ozfOXWJ5G6eqvzV7FFh0rT4CCyWqffnIGdP1wkHVqY3FGUedGo9eUmirg'
-api_secret = 'y2qlhQPZd6DTLwCqPrqCKLtIwVj3Z13hmiKilBFL8UjUOy4qBWlGV6EyAkkg6J0X'
+api_key = 'ADD yours'
+api_secret = 'ADD Yours'
 symbol = 'BTCUSDT'
 timeframe = '1h'
 
